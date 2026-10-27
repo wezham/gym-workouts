@@ -1,0 +1,14 @@
+{
+  "name": "gym-workouts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/create-program.mjs && node generate-workout-html.mjs",
+    "test": "node --test tests/program.test.mjs",
+    "test:browser": "node tests/browser.mjs",
+    "serve": "python3 -m http.server 4173 --bind 127.0.0.1"
+  },
+  "devDependencies": {
+    "playwright": "^1.58.0"
+  }
+}

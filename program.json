@@ -1,0 +1,2280 @@
+{
+  "title": "FORM / A fresh training cycle",
+  "startDate": "2026-10-27",
+  "timezone": "Australia/Sydney",
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "phase": "Foundation / fresh angles",
+      "focus": "Find your working loads",
+      "rir": 3,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Low-incline dumbbell press",
+            "region": "upper",
+            "description": "Set the bench to 15–30°. Keep feet planted and lower the dumbbells beside your upper chest; press without bouncing.",
+            "alternative": "Incline chest-press machine",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Chest-supported dumbbell row",
+            "region": "upper",
+            "description": "Brace your chest on an incline bench. Pull elbows toward your hips and lower without shrugging.",
+            "alternative": "Chest-supported machine row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Neutral-grip lat pulldown",
+            "region": "upper",
+            "description": "Keep ribs stacked. Pull handles toward your upper chest without leaning back or swinging.",
+            "alternative": "Assisted neutral-grip pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Goblet squat",
+            "region": "lower",
+            "description": "Hold a dumbbell at your chest. Sit between your hips to a comfortable depth and drive through your whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Dumbbell Romanian deadlift",
+            "region": "lower",
+            "description": "Soften your knees and push your hips back. Keep weights close; stop before your back rounds and stand tall.",
+            "alternative": "Cable pull-through",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Bayesian cable curl",
+            "region": "upper",
+            "description": "Face away from a low cable with your elbow slightly behind your torso. Curl without moving the upper arm.",
+            "alternative": "Incline dumbbell curl",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Overhead rope triceps extension",
+            "region": "upper",
+            "description": "Face away from the high cable. Keep upper arms steady and extend your elbows without flaring your ribs.",
+            "alternative": "Rope pushdown",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Flat dumbbell press",
+            "region": "upper",
+            "description": "Plant feet and brace your upper back. Lower dumbbells under control and press with wrists over elbows.",
+            "alternative": "Machine chest press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Seated cable row",
+            "region": "upper",
+            "description": "Stay tall with a still torso. Row toward your lower ribs and let shoulder blades move on the return.",
+            "alternative": "Chest-supported row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Neutral-grip lat pulldown",
+            "region": "upper",
+            "description": "Keep ribs stacked. Pull handles toward your upper chest without leaning back or swinging.",
+            "alternative": "Assisted neutral-grip pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Seated dumbbell shoulder press",
+            "region": "upper",
+            "description": "Use a supported bench. Press overhead in a comfortable range without arching your lower back.",
+            "alternative": "Machine shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Reverse lunge",
+            "region": "lower",
+            "description": "Step back and lower both knees under control. Drive through the front foot. Complete the listed reps on each leg.",
+            "alternative": "Supported split squat",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable lateral raise",
+            "region": "upper",
+            "description": "Raise the arm out to the side to shoulder height; lower slowly without swinging.",
+            "alternative": "Dumbbell lateral raise",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Reverse pec deck",
+            "region": "upper",
+            "description": "Set handles at shoulder height. Open your arms with soft elbows and keep your chest on the pad.",
+            "alternative": "Cable rear-delt fly",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 2,
+      "phase": "Foundation / fresh angles",
+      "focus": "Add clean reps",
+      "rir": 2,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Low-incline dumbbell press",
+            "region": "upper",
+            "description": "Set the bench to 15–30°. Keep feet planted and lower the dumbbells beside your upper chest; press without bouncing.",
+            "alternative": "Incline chest-press machine",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Chest-supported dumbbell row",
+            "region": "upper",
+            "description": "Brace your chest on an incline bench. Pull elbows toward your hips and lower without shrugging.",
+            "alternative": "Chest-supported machine row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Neutral-grip lat pulldown",
+            "region": "upper",
+            "description": "Keep ribs stacked. Pull handles toward your upper chest without leaning back or swinging.",
+            "alternative": "Assisted neutral-grip pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Goblet squat",
+            "region": "lower",
+            "description": "Hold a dumbbell at your chest. Sit between your hips to a comfortable depth and drive through your whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Dumbbell Romanian deadlift",
+            "region": "lower",
+            "description": "Soften your knees and push your hips back. Keep weights close; stop before your back rounds and stand tall.",
+            "alternative": "Cable pull-through",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cross-body hammer curl",
+            "region": "upper",
+            "description": "Keep a neutral grip and curl toward the opposite shoulder without swinging. Reps are per arm.",
+            "alternative": "Rope hammer curl",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Rope triceps pushdown",
+            "region": "upper",
+            "description": "Keep elbows by your ribs. Extend fully and return without letting shoulders roll forward.",
+            "alternative": "Straight-bar pushdown",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Flat dumbbell press",
+            "region": "upper",
+            "description": "Plant feet and brace your upper back. Lower dumbbells under control and press with wrists over elbows.",
+            "alternative": "Machine chest press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Seated cable row",
+            "region": "upper",
+            "description": "Stay tall with a still torso. Row toward your lower ribs and let shoulder blades move on the return.",
+            "alternative": "Chest-supported row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Neutral-grip lat pulldown",
+            "region": "upper",
+            "description": "Keep ribs stacked. Pull handles toward your upper chest without leaning back or swinging.",
+            "alternative": "Assisted neutral-grip pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Seated dumbbell shoulder press",
+            "region": "upper",
+            "description": "Use a supported bench. Press overhead in a comfortable range without arching your lower back.",
+            "alternative": "Machine shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Reverse lunge",
+            "region": "lower",
+            "description": "Step back and lower both knees under control. Drive through the front foot. Complete the listed reps on each leg.",
+            "alternative": "Supported split squat",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable face pull",
+            "region": "upper",
+            "description": "Pull the rope toward eyebrow level with elbows comfortably wide. Avoid shrugging or leaning back.",
+            "alternative": "Reverse pec deck",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Bayesian cable curl",
+            "region": "upper",
+            "description": "Face away from a low cable with your elbow slightly behind your torso. Curl without moving the upper arm.",
+            "alternative": "Incline dumbbell curl",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 3,
+      "phase": "Foundation / fresh angles",
+      "focus": "Build on your best",
+      "rir": 2,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Low-incline dumbbell press",
+            "region": "upper",
+            "description": "Set the bench to 15–30°. Keep feet planted and lower the dumbbells beside your upper chest; press without bouncing.",
+            "alternative": "Incline chest-press machine",
+            "block": "A1",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Chest-supported dumbbell row",
+            "region": "upper",
+            "description": "Brace your chest on an incline bench. Pull elbows toward your hips and lower without shrugging.",
+            "alternative": "Chest-supported machine row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Neutral-grip lat pulldown",
+            "region": "upper",
+            "description": "Keep ribs stacked. Pull handles toward your upper chest without leaning back or swinging.",
+            "alternative": "Assisted neutral-grip pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Goblet squat",
+            "region": "lower",
+            "description": "Hold a dumbbell at your chest. Sit between your hips to a comfortable depth and drive through your whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Dumbbell Romanian deadlift",
+            "region": "lower",
+            "description": "Soften your knees and push your hips back. Keep weights close; stop before your back rounds and stand tall.",
+            "alternative": "Cable pull-through",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Bayesian cable curl",
+            "region": "upper",
+            "description": "Face away from a low cable with your elbow slightly behind your torso. Curl without moving the upper arm.",
+            "alternative": "Incline dumbbell curl",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Overhead rope triceps extension",
+            "region": "upper",
+            "description": "Face away from the high cable. Keep upper arms steady and extend your elbows without flaring your ribs.",
+            "alternative": "Rope pushdown",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Flat dumbbell press",
+            "region": "upper",
+            "description": "Plant feet and brace your upper back. Lower dumbbells under control and press with wrists over elbows.",
+            "alternative": "Machine chest press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Seated cable row",
+            "region": "upper",
+            "description": "Stay tall with a still torso. Row toward your lower ribs and let shoulder blades move on the return.",
+            "alternative": "Chest-supported row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Neutral-grip lat pulldown",
+            "region": "upper",
+            "description": "Keep ribs stacked. Pull handles toward your upper chest without leaning back or swinging.",
+            "alternative": "Assisted neutral-grip pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Seated dumbbell shoulder press",
+            "region": "upper",
+            "description": "Use a supported bench. Press overhead in a comfortable range without arching your lower back.",
+            "alternative": "Machine shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Reverse lunge",
+            "region": "lower",
+            "description": "Step back and lower both knees under control. Drive through the front foot. Complete the listed reps on each leg.",
+            "alternative": "Supported split squat",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable lateral raise",
+            "region": "upper",
+            "description": "Raise the arm out to the side to shoulder height; lower slowly without swinging.",
+            "alternative": "Dumbbell lateral raise",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Reverse pec deck",
+            "region": "upper",
+            "description": "Set handles at shoulder height. Open your arms with soft elbows and keep your chest on the pad.",
+            "alternative": "Cable rear-delt fly",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 4,
+      "phase": "Foundation / fresh angles",
+      "focus": "Recover + reset",
+      "rir": 4,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Low-incline dumbbell press",
+            "region": "upper",
+            "description": "Set the bench to 15–30°. Keep feet planted and lower the dumbbells beside your upper chest; press without bouncing.",
+            "alternative": "Incline chest-press machine",
+            "block": "A1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Chest-supported dumbbell row",
+            "region": "upper",
+            "description": "Brace your chest on an incline bench. Pull elbows toward your hips and lower without shrugging.",
+            "alternative": "Chest-supported machine row",
+            "block": "A2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Neutral-grip lat pulldown",
+            "region": "upper",
+            "description": "Keep ribs stacked. Pull handles toward your upper chest without leaning back or swinging.",
+            "alternative": "Assisted neutral-grip pull-up",
+            "block": "B1",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Goblet squat",
+            "region": "lower",
+            "description": "Hold a dumbbell at your chest. Sit between your hips to a comfortable depth and drive through your whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Dumbbell Romanian deadlift",
+            "region": "lower",
+            "description": "Soften your knees and push your hips back. Keep weights close; stop before your back rounds and stand tall.",
+            "alternative": "Cable pull-through",
+            "block": "C2",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Bayesian cable curl",
+            "region": "upper",
+            "description": "Face away from a low cable with your elbow slightly behind your torso. Curl without moving the upper arm.",
+            "alternative": "Incline dumbbell curl",
+            "block": "D1",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Overhead rope triceps extension",
+            "region": "upper",
+            "description": "Face away from the high cable. Keep upper arms steady and extend your elbows without flaring your ribs.",
+            "alternative": "Rope pushdown",
+            "block": "D2",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Flat dumbbell press",
+            "region": "upper",
+            "description": "Plant feet and brace your upper back. Lower dumbbells under control and press with wrists over elbows.",
+            "alternative": "Machine chest press",
+            "block": "A1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Seated cable row",
+            "region": "upper",
+            "description": "Stay tall with a still torso. Row toward your lower ribs and let shoulder blades move on the return.",
+            "alternative": "Chest-supported row",
+            "block": "A2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Neutral-grip lat pulldown",
+            "region": "upper",
+            "description": "Keep ribs stacked. Pull handles toward your upper chest without leaning back or swinging.",
+            "alternative": "Assisted neutral-grip pull-up",
+            "block": "B1",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Seated dumbbell shoulder press",
+            "region": "upper",
+            "description": "Use a supported bench. Press overhead in a comfortable range without arching your lower back.",
+            "alternative": "Machine shoulder press",
+            "block": "B2",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Reverse lunge",
+            "region": "lower",
+            "description": "Step back and lower both knees under control. Drive through the front foot. Complete the listed reps on each leg.",
+            "alternative": "Supported split squat",
+            "block": "C1",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Cable lateral raise",
+            "region": "upper",
+            "description": "Raise the arm out to the side to shoulder height; lower slowly without swinging.",
+            "alternative": "Dumbbell lateral raise",
+            "block": "D1",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Reverse pec deck",
+            "region": "upper",
+            "description": "Set handles at shoulder height. Open your arms with soft elbows and keep your chest on the pad.",
+            "alternative": "Cable rear-delt fly",
+            "block": "D2",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 3. Leave 4 reps in reserve."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 5,
+      "phase": "Build / machines + control",
+      "focus": "Find your working loads",
+      "rir": 3,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Converging chest press",
+            "region": "upper",
+            "description": "Set handles around mid-chest. Press while keeping your upper back on the pad.",
+            "alternative": "Flat dumbbell press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Assisted chin-up",
+            "region": "upper",
+            "description": "Use enough assistance for controlled reps. Pull your chest toward the bar and lower without swinging.",
+            "alternative": "Supinated lat pulldown",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Chest-supported T-bar row",
+            "region": "upper",
+            "description": "Keep chest supported and pull toward your lower ribs. Pause briefly and lower with control.",
+            "alternative": "Chest-supported dumbbell row",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Leg press",
+            "region": "lower",
+            "description": "Keep hips on the pad. Lower to a comfortable depth without your pelvis rolling; press without locking knees hard.",
+            "alternative": "Goblet squat",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable pull-through",
+            "region": "lower",
+            "description": "Face away from a low pulley with rope between your legs. Hinge back and squeeze glutes to stand without leaning back.",
+            "alternative": "Dumbbell Romanian deadlift",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Machine preacher curl",
+            "region": "upper",
+            "description": "Keep upper arms on the pad. Curl smoothly and avoid snapping elbows straight at the bottom.",
+            "alternative": "EZ-bar preacher curl",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Overhead rope triceps extension",
+            "region": "upper",
+            "description": "Face away from the high cable. Keep upper arms steady and extend your elbows without flaring your ribs.",
+            "alternative": "Rope pushdown",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Low-incline dumbbell press",
+            "region": "upper",
+            "description": "Set the bench to 15–30°. Keep feet planted and lower the dumbbells beside your upper chest; press without bouncing.",
+            "alternative": "Incline chest-press machine",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Single-arm cable row",
+            "region": "upper",
+            "description": "Keep hips and ribs square. Pull elbow beside your torso without twisting. Reps are per side.",
+            "alternative": "Bench-supported dumbbell row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Medium-grip lat pulldown",
+            "region": "upper",
+            "description": "Use a comfortable overhand grip. Bring the bar toward upper chest while keeping your torso controlled.",
+            "alternative": "Assisted pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Seated dumbbell shoulder press",
+            "region": "upper",
+            "description": "Use a supported bench. Press overhead in a comfortable range without arching your lower back.",
+            "alternative": "Machine shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Reverse lunge",
+            "region": "lower",
+            "description": "Step back and lower both knees under control. Drive through the front foot. Complete the listed reps on each leg.",
+            "alternative": "Supported split squat",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable lateral raise",
+            "region": "upper",
+            "description": "Raise the arm out to the side to shoulder height; lower slowly without swinging.",
+            "alternative": "Dumbbell lateral raise",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Cable face pull",
+            "region": "upper",
+            "description": "Pull the rope toward eyebrow level with elbows comfortably wide. Avoid shrugging or leaning back.",
+            "alternative": "Reverse pec deck",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 6,
+      "phase": "Build / machines + control",
+      "focus": "Add clean reps",
+      "rir": 2,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Converging chest press",
+            "region": "upper",
+            "description": "Set handles around mid-chest. Press while keeping your upper back on the pad.",
+            "alternative": "Flat dumbbell press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Assisted chin-up",
+            "region": "upper",
+            "description": "Use enough assistance for controlled reps. Pull your chest toward the bar and lower without swinging.",
+            "alternative": "Supinated lat pulldown",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Chest-supported T-bar row",
+            "region": "upper",
+            "description": "Keep chest supported and pull toward your lower ribs. Pause briefly and lower with control.",
+            "alternative": "Chest-supported dumbbell row",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Leg press",
+            "region": "lower",
+            "description": "Keep hips on the pad. Lower to a comfortable depth without your pelvis rolling; press without locking knees hard.",
+            "alternative": "Goblet squat",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable pull-through",
+            "region": "lower",
+            "description": "Face away from a low pulley with rope between your legs. Hinge back and squeeze glutes to stand without leaning back.",
+            "alternative": "Dumbbell Romanian deadlift",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cross-body hammer curl",
+            "region": "upper",
+            "description": "Keep a neutral grip and curl toward the opposite shoulder without swinging. Reps are per arm.",
+            "alternative": "Rope hammer curl",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Rope triceps pushdown",
+            "region": "upper",
+            "description": "Keep elbows by your ribs. Extend fully and return without letting shoulders roll forward.",
+            "alternative": "Straight-bar pushdown",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Low-incline dumbbell press",
+            "region": "upper",
+            "description": "Set the bench to 15–30°. Keep feet planted and lower the dumbbells beside your upper chest; press without bouncing.",
+            "alternative": "Incline chest-press machine",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Single-arm cable row",
+            "region": "upper",
+            "description": "Keep hips and ribs square. Pull elbow beside your torso without twisting. Reps are per side.",
+            "alternative": "Bench-supported dumbbell row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Medium-grip lat pulldown",
+            "region": "upper",
+            "description": "Use a comfortable overhand grip. Bring the bar toward upper chest while keeping your torso controlled.",
+            "alternative": "Assisted pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Seated dumbbell shoulder press",
+            "region": "upper",
+            "description": "Use a supported bench. Press overhead in a comfortable range without arching your lower back.",
+            "alternative": "Machine shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Reverse lunge",
+            "region": "lower",
+            "description": "Step back and lower both knees under control. Drive through the front foot. Complete the listed reps on each leg.",
+            "alternative": "Supported split squat",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable face pull",
+            "region": "upper",
+            "description": "Pull the rope toward eyebrow level with elbows comfortably wide. Avoid shrugging or leaning back.",
+            "alternative": "Reverse pec deck",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Bayesian cable curl",
+            "region": "upper",
+            "description": "Face away from a low cable with your elbow slightly behind your torso. Curl without moving the upper arm.",
+            "alternative": "Incline dumbbell curl",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 7,
+      "phase": "Build / machines + control",
+      "focus": "Build on your best",
+      "rir": 2,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Converging chest press",
+            "region": "upper",
+            "description": "Set handles around mid-chest. Press while keeping your upper back on the pad.",
+            "alternative": "Flat dumbbell press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Assisted chin-up",
+            "region": "upper",
+            "description": "Use enough assistance for controlled reps. Pull your chest toward the bar and lower without swinging.",
+            "alternative": "Supinated lat pulldown",
+            "block": "A2",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Chest-supported T-bar row",
+            "region": "upper",
+            "description": "Keep chest supported and pull toward your lower ribs. Pause briefly and lower with control.",
+            "alternative": "Chest-supported dumbbell row",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Leg press",
+            "region": "lower",
+            "description": "Keep hips on the pad. Lower to a comfortable depth without your pelvis rolling; press without locking knees hard.",
+            "alternative": "Goblet squat",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable pull-through",
+            "region": "lower",
+            "description": "Face away from a low pulley with rope between your legs. Hinge back and squeeze glutes to stand without leaning back.",
+            "alternative": "Dumbbell Romanian deadlift",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Machine preacher curl",
+            "region": "upper",
+            "description": "Keep upper arms on the pad. Curl smoothly and avoid snapping elbows straight at the bottom.",
+            "alternative": "EZ-bar preacher curl",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Overhead rope triceps extension",
+            "region": "upper",
+            "description": "Face away from the high cable. Keep upper arms steady and extend your elbows without flaring your ribs.",
+            "alternative": "Rope pushdown",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Low-incline dumbbell press",
+            "region": "upper",
+            "description": "Set the bench to 15–30°. Keep feet planted and lower the dumbbells beside your upper chest; press without bouncing.",
+            "alternative": "Incline chest-press machine",
+            "block": "A1",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Single-arm cable row",
+            "region": "upper",
+            "description": "Keep hips and ribs square. Pull elbow beside your torso without twisting. Reps are per side.",
+            "alternative": "Bench-supported dumbbell row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Medium-grip lat pulldown",
+            "region": "upper",
+            "description": "Use a comfortable overhand grip. Bring the bar toward upper chest while keeping your torso controlled.",
+            "alternative": "Assisted pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Seated dumbbell shoulder press",
+            "region": "upper",
+            "description": "Use a supported bench. Press overhead in a comfortable range without arching your lower back.",
+            "alternative": "Machine shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Reverse lunge",
+            "region": "lower",
+            "description": "Step back and lower both knees under control. Drive through the front foot. Complete the listed reps on each leg.",
+            "alternative": "Supported split squat",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable lateral raise",
+            "region": "upper",
+            "description": "Raise the arm out to the side to shoulder height; lower slowly without swinging.",
+            "alternative": "Dumbbell lateral raise",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Cable face pull",
+            "region": "upper",
+            "description": "Pull the rope toward eyebrow level with elbows comfortably wide. Avoid shrugging or leaning back.",
+            "alternative": "Reverse pec deck",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 8,
+      "phase": "Build / machines + control",
+      "focus": "Recover + reset",
+      "rir": 4,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Converging chest press",
+            "region": "upper",
+            "description": "Set handles around mid-chest. Press while keeping your upper back on the pad.",
+            "alternative": "Flat dumbbell press",
+            "block": "A1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Assisted chin-up",
+            "region": "upper",
+            "description": "Use enough assistance for controlled reps. Pull your chest toward the bar and lower without swinging.",
+            "alternative": "Supinated lat pulldown",
+            "block": "A2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Chest-supported T-bar row",
+            "region": "upper",
+            "description": "Keep chest supported and pull toward your lower ribs. Pause briefly and lower with control.",
+            "alternative": "Chest-supported dumbbell row",
+            "block": "B1",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Leg press",
+            "region": "lower",
+            "description": "Keep hips on the pad. Lower to a comfortable depth without your pelvis rolling; press without locking knees hard.",
+            "alternative": "Goblet squat",
+            "block": "C1",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Cable pull-through",
+            "region": "lower",
+            "description": "Face away from a low pulley with rope between your legs. Hinge back and squeeze glutes to stand without leaning back.",
+            "alternative": "Dumbbell Romanian deadlift",
+            "block": "C2",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Machine preacher curl",
+            "region": "upper",
+            "description": "Keep upper arms on the pad. Curl smoothly and avoid snapping elbows straight at the bottom.",
+            "alternative": "EZ-bar preacher curl",
+            "block": "D1",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Overhead rope triceps extension",
+            "region": "upper",
+            "description": "Face away from the high cable. Keep upper arms steady and extend your elbows without flaring your ribs.",
+            "alternative": "Rope pushdown",
+            "block": "D2",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Low-incline dumbbell press",
+            "region": "upper",
+            "description": "Set the bench to 15–30°. Keep feet planted and lower the dumbbells beside your upper chest; press without bouncing.",
+            "alternative": "Incline chest-press machine",
+            "block": "A1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Single-arm cable row",
+            "region": "upper",
+            "description": "Keep hips and ribs square. Pull elbow beside your torso without twisting. Reps are per side.",
+            "alternative": "Bench-supported dumbbell row",
+            "block": "A2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Medium-grip lat pulldown",
+            "region": "upper",
+            "description": "Use a comfortable overhand grip. Bring the bar toward upper chest while keeping your torso controlled.",
+            "alternative": "Assisted pull-up",
+            "block": "B1",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Seated dumbbell shoulder press",
+            "region": "upper",
+            "description": "Use a supported bench. Press overhead in a comfortable range without arching your lower back.",
+            "alternative": "Machine shoulder press",
+            "block": "B2",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Reverse lunge",
+            "region": "lower",
+            "description": "Step back and lower both knees under control. Drive through the front foot. Complete the listed reps on each leg.",
+            "alternative": "Supported split squat",
+            "block": "C1",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Cable lateral raise",
+            "region": "upper",
+            "description": "Raise the arm out to the side to shoulder height; lower slowly without swinging.",
+            "alternative": "Dumbbell lateral raise",
+            "block": "D1",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Cable face pull",
+            "region": "upper",
+            "description": "Pull the rope toward eyebrow level with elbows comfortably wide. Avoid shrugging or leaning back.",
+            "alternative": "Reverse pec deck",
+            "block": "D2",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 7. Leave 4 reps in reserve."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 9,
+      "phase": "Strength / confident reps",
+      "focus": "Find your working loads",
+      "rir": 3,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Smith machine incline press",
+            "region": "upper",
+            "description": "Set a low incline and position the bench so the bar meets upper chest. Set safety stops before loading.",
+            "alternative": "Incline dumbbell press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Chest-supported T-bar row",
+            "region": "upper",
+            "description": "Keep chest supported and pull toward your lower ribs. Pause briefly and lower with control.",
+            "alternative": "Chest-supported dumbbell row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Assisted chin-up",
+            "region": "upper",
+            "description": "Use enough assistance for controlled reps. Pull your chest toward the bar and lower without swinging.",
+            "alternative": "Supinated lat pulldown",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Standing single-arm cable press",
+            "region": "upper",
+            "description": "Use a split stance and keep hips square. Press forward without rotating. Reps are per side.",
+            "alternative": "Single-arm machine chest press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Hack squat",
+            "region": "lower",
+            "description": "Keep your back on the pad. Descend to a controlled comfortable depth and push through the whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Dumbbell Romanian deadlift",
+            "region": "lower",
+            "description": "Soften your knees and push your hips back. Keep weights close; stop before your back rounds and stand tall.",
+            "alternative": "Cable pull-through",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Bayesian cable curl",
+            "region": "upper",
+            "description": "Face away from a low cable with your elbow slightly behind your torso. Curl without moving the upper arm.",
+            "alternative": "Incline dumbbell curl",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Rope triceps pushdown",
+            "region": "upper",
+            "description": "Keep elbows by your ribs. Extend fully and return without letting shoulders roll forward.",
+            "alternative": "Straight-bar pushdown",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Flat dumbbell press",
+            "region": "upper",
+            "description": "Plant feet and brace your upper back. Lower dumbbells under control and press with wrists over elbows.",
+            "alternative": "Machine chest press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Single-arm cable row",
+            "region": "upper",
+            "description": "Keep hips and ribs square. Pull elbow beside your torso without twisting. Reps are per side.",
+            "alternative": "Bench-supported dumbbell row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Medium-grip lat pulldown",
+            "region": "upper",
+            "description": "Use a comfortable overhand grip. Bring the bar toward upper chest while keeping your torso controlled.",
+            "alternative": "Assisted pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Goblet squat",
+            "region": "lower",
+            "description": "Hold a dumbbell at your chest. Sit between your hips to a comfortable depth and drive through your whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable lateral raise",
+            "region": "upper",
+            "description": "Raise the arm out to the side to shoulder height; lower slowly without swinging.",
+            "alternative": "Dumbbell lateral raise",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Reverse pec deck",
+            "region": "upper",
+            "description": "Set handles at shoulder height. Open your arms with soft elbows and keep your chest on the pad.",
+            "alternative": "Cable rear-delt fly",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 10,
+      "phase": "Strength / confident reps",
+      "focus": "Add clean reps",
+      "rir": 2,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Smith machine incline press",
+            "region": "upper",
+            "description": "Set a low incline and position the bench so the bar meets upper chest. Set safety stops before loading.",
+            "alternative": "Incline dumbbell press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Chest-supported T-bar row",
+            "region": "upper",
+            "description": "Keep chest supported and pull toward your lower ribs. Pause briefly and lower with control.",
+            "alternative": "Chest-supported dumbbell row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Assisted chin-up",
+            "region": "upper",
+            "description": "Use enough assistance for controlled reps. Pull your chest toward the bar and lower without swinging.",
+            "alternative": "Supinated lat pulldown",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Standing single-arm cable press",
+            "region": "upper",
+            "description": "Use a split stance and keep hips square. Press forward without rotating. Reps are per side.",
+            "alternative": "Single-arm machine chest press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Hack squat",
+            "region": "lower",
+            "description": "Keep your back on the pad. Descend to a controlled comfortable depth and push through the whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Dumbbell Romanian deadlift",
+            "region": "lower",
+            "description": "Soften your knees and push your hips back. Keep weights close; stop before your back rounds and stand tall.",
+            "alternative": "Cable pull-through",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cross-body hammer curl",
+            "region": "upper",
+            "description": "Keep a neutral grip and curl toward the opposite shoulder without swinging. Reps are per arm.",
+            "alternative": "Rope hammer curl",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Rope triceps pushdown",
+            "region": "upper",
+            "description": "Keep elbows by your ribs. Extend fully and return without letting shoulders roll forward.",
+            "alternative": "Straight-bar pushdown",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Flat dumbbell press",
+            "region": "upper",
+            "description": "Plant feet and brace your upper back. Lower dumbbells under control and press with wrists over elbows.",
+            "alternative": "Machine chest press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Single-arm cable row",
+            "region": "upper",
+            "description": "Keep hips and ribs square. Pull elbow beside your torso without twisting. Reps are per side.",
+            "alternative": "Bench-supported dumbbell row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Medium-grip lat pulldown",
+            "region": "upper",
+            "description": "Use a comfortable overhand grip. Bring the bar toward upper chest while keeping your torso controlled.",
+            "alternative": "Assisted pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Goblet squat",
+            "region": "lower",
+            "description": "Hold a dumbbell at your chest. Sit between your hips to a comfortable depth and drive through your whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable face pull",
+            "region": "upper",
+            "description": "Pull the rope toward eyebrow level with elbows comfortably wide. Avoid shrugging or leaning back.",
+            "alternative": "Reverse pec deck",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Bayesian cable curl",
+            "region": "upper",
+            "description": "Face away from a low cable with your elbow slightly behind your torso. Curl without moving the upper arm.",
+            "alternative": "Incline dumbbell curl",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 11,
+      "phase": "Strength / confident reps",
+      "focus": "Build on your best",
+      "rir": 2,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Smith machine incline press",
+            "region": "upper",
+            "description": "Set a low incline and position the bench so the bar meets upper chest. Set safety stops before loading.",
+            "alternative": "Incline dumbbell press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Chest-supported T-bar row",
+            "region": "upper",
+            "description": "Keep chest supported and pull toward your lower ribs. Pause briefly and lower with control.",
+            "alternative": "Chest-supported dumbbell row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Assisted chin-up",
+            "region": "upper",
+            "description": "Use enough assistance for controlled reps. Pull your chest toward the bar and lower without swinging.",
+            "alternative": "Supinated lat pulldown",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Standing single-arm cable press",
+            "region": "upper",
+            "description": "Use a split stance and keep hips square. Press forward without rotating. Reps are per side.",
+            "alternative": "Single-arm machine chest press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Hack squat",
+            "region": "lower",
+            "description": "Keep your back on the pad. Descend to a controlled comfortable depth and push through the whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Dumbbell Romanian deadlift",
+            "region": "lower",
+            "description": "Soften your knees and push your hips back. Keep weights close; stop before your back rounds and stand tall.",
+            "alternative": "Cable pull-through",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Bayesian cable curl",
+            "region": "upper",
+            "description": "Face away from a low cable with your elbow slightly behind your torso. Curl without moving the upper arm.",
+            "alternative": "Incline dumbbell curl",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Rope triceps pushdown",
+            "region": "upper",
+            "description": "Keep elbows by your ribs. Extend fully and return without letting shoulders roll forward.",
+            "alternative": "Straight-bar pushdown",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Flat dumbbell press",
+            "region": "upper",
+            "description": "Plant feet and brace your upper back. Lower dumbbells under control and press with wrists over elbows.",
+            "alternative": "Machine chest press",
+            "block": "A1",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Single-arm cable row",
+            "region": "upper",
+            "description": "Keep hips and ribs square. Pull elbow beside your torso without twisting. Reps are per side.",
+            "alternative": "Bench-supported dumbbell row",
+            "block": "A2",
+            "sets": 3,
+            "reps": "6–8",
+            "rest": 150,
+            "notes": "Straight sets. Complete this exercise before moving on."
+          },
+          {
+            "exercise": "Medium-grip lat pulldown",
+            "region": "upper",
+            "description": "Use a comfortable overhand grip. Bring the bar toward upper chest while keeping your torso controlled.",
+            "alternative": "Assisted pull-up",
+            "block": "B1",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 3,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Alternate B1/B2 only if equipment is free. Rest after each exercise."
+          },
+          {
+            "exercise": "Goblet squat",
+            "region": "lower",
+            "description": "Hold a dumbbell at your chest. Sit between your hips to a comfortable depth and drive through your whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Controlled reps. Rest after each set."
+          },
+          {
+            "exercise": "Cable lateral raise",
+            "region": "upper",
+            "description": "Raise the arm out to the side to shoulder height; lower slowly without swinging.",
+            "alternative": "Dumbbell lateral raise",
+            "block": "D1",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          },
+          {
+            "exercise": "Reverse pec deck",
+            "region": "upper",
+            "description": "Set handles at shoulder height. Open your arms with soft elbows and keep your chest on the pad.",
+            "alternative": "Cable rear-delt fly",
+            "block": "D2",
+            "sets": 2,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Optional D1/D2 pairing. No rush; keep form clean."
+          }
+        ]
+      }
+    },
+    {
+      "weekNumber": 12,
+      "phase": "Strength / confident reps",
+      "focus": "Recover + reset",
+      "rir": 4,
+      "days": {
+        "Day 1": [
+          {
+            "exercise": "Smith machine incline press",
+            "region": "upper",
+            "description": "Set a low incline and position the bench so the bar meets upper chest. Set safety stops before loading.",
+            "alternative": "Incline dumbbell press",
+            "block": "A1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Chest-supported T-bar row",
+            "region": "upper",
+            "description": "Keep chest supported and pull toward your lower ribs. Pause briefly and lower with control.",
+            "alternative": "Chest-supported dumbbell row",
+            "block": "A2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Assisted chin-up",
+            "region": "upper",
+            "description": "Use enough assistance for controlled reps. Pull your chest toward the bar and lower without swinging.",
+            "alternative": "Supinated lat pulldown",
+            "block": "B1",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Standing single-arm cable press",
+            "region": "upper",
+            "description": "Use a split stance and keep hips square. Press forward without rotating. Reps are per side.",
+            "alternative": "Single-arm machine chest press",
+            "block": "B2",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Hack squat",
+            "region": "lower",
+            "description": "Keep your back on the pad. Descend to a controlled comfortable depth and push through the whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Dumbbell Romanian deadlift",
+            "region": "lower",
+            "description": "Soften your knees and push your hips back. Keep weights close; stop before your back rounds and stand tall.",
+            "alternative": "Cable pull-through",
+            "block": "C2",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Bayesian cable curl",
+            "region": "upper",
+            "description": "Face away from a low cable with your elbow slightly behind your torso. Curl without moving the upper arm.",
+            "alternative": "Incline dumbbell curl",
+            "block": "D1",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Rope triceps pushdown",
+            "region": "upper",
+            "description": "Keep elbows by your ribs. Extend fully and return without letting shoulders roll forward.",
+            "alternative": "Straight-bar pushdown",
+            "block": "D2",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          }
+        ],
+        "Day 2": [
+          {
+            "exercise": "Flat dumbbell press",
+            "region": "upper",
+            "description": "Plant feet and brace your upper back. Lower dumbbells under control and press with wrists over elbows.",
+            "alternative": "Machine chest press",
+            "block": "A1",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Single-arm cable row",
+            "region": "upper",
+            "description": "Keep hips and ribs square. Pull elbow beside your torso without twisting. Reps are per side.",
+            "alternative": "Bench-supported dumbbell row",
+            "block": "A2",
+            "sets": 2,
+            "reps": "8–10",
+            "rest": 150,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Medium-grip lat pulldown",
+            "region": "upper",
+            "description": "Use a comfortable overhand grip. Bring the bar toward upper chest while keeping your torso controlled.",
+            "alternative": "Assisted pull-up",
+            "block": "B1",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Half-kneeling landmine press",
+            "region": "upper",
+            "description": "Secure the bar in a landmine base. Kneel with the working-side knee down; press up and forward without arching. Reps are per side.",
+            "alternative": "Single-arm cable shoulder press",
+            "block": "B2",
+            "sets": 2,
+            "reps": "8–12",
+            "rest": 120,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Goblet squat",
+            "region": "lower",
+            "description": "Hold a dumbbell at your chest. Sit between your hips to a comfortable depth and drive through your whole foot.",
+            "alternative": "Leg press",
+            "block": "C1",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Seated leg curl",
+            "region": "lower",
+            "description": "Align your knee with the machine pivot and keep hips against the pad. Curl and return slowly.",
+            "alternative": "Lying leg curl",
+            "block": "C2",
+            "sets": 1,
+            "reps": "8–10",
+            "rest": 90,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Cable lateral raise",
+            "region": "upper",
+            "description": "Raise the arm out to the side to shoulder height; lower slowly without swinging.",
+            "alternative": "Dumbbell lateral raise",
+            "block": "D1",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          },
+          {
+            "exercise": "Reverse pec deck",
+            "region": "upper",
+            "description": "Set handles at shoulder height. Open your arms with soft elbows and keep your chest on the pad.",
+            "alternative": "Cable rear-delt fly",
+            "block": "D2",
+            "sets": 1,
+            "reps": "12–15",
+            "rest": 60,
+            "notes": "Use about 10–15% less load than week 11. Leave 4 reps in reserve."
+          }
+        ]
+      }
+    }
+  ],
+  "guidance": {
+    "schedule": "Two sessions a week, ideally 2–3 days apart. Day 1 and Day 2 are session labels; train on the days that suit you. Allow around 65–80 minutes including warm-up.",
+    "warmup": "Start with 5 minutes of easy movement. Do 2–3 progressively heavier warm-up sets for your first press and pull, plus a light rehearsal of your first leg exercise. Warm-up sets do not count toward the totals.",
+    "progression": "Keep compound lifts for each four-week block. When every working set reaches the top of its rep range with the target reps in reserve, add the smallest available load next time (usually 2–5%). Otherwise add a rep or repeat the load. Compare matching exercises, not different variations.",
+    "effort": "RIR means reps in reserve: how many clean reps you could still do. Most work stops with 2–3 reps left. No forced reps or failure targets. Use a comfortable range and swap an exercise if it causes pain.",
+    "variety": "New compound combinations every four weeks. Week 2 of each block rotates finishers; week 3 returns to the original finishers with a lower rep range on the first two lifts. Weeks 4, 8 and 12 reduce volume and effort.",
+    "balance": "Regular sessions: 16 upper + 4 lower working sets = 80/20 by direct programmed sets. Recovery sessions: 10 upper + 2 lower sets. Compound exercises also involve other muscles, so this is an emphasis rather than a physiological percentage.",
+    "goal": "Build and maintain muscle with repeatable strength work. Visible definition also depends on nutrition and body-fat levels; this cycle does not promise spot fat loss.",
+    "core": "Optional: after either session add 2 easy sets of dead bugs or Pallof presses if time allows. These are extra core work and excluded from the 80/20 working-set count.",
+    "cycle": "After week 12, review your logged loads and choose a new cycle. The app holds at week 12 rather than silently looping.",
+    "sources": [
+      {
+        "title": "ACSM 2026 resistance training guidance",
+        "url": "https://acsm.org/resistance-training-guidelines-update-2026/"
+      }
+    ]
+  }
+}
