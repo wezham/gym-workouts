@@ -21,7 +21,7 @@ The cycle uses Australia/Sydney dates. Session labels do not dictate training we
 
 ## Deployment
 
-Vercel serves this repository as a static site. Set the framework preset to **Other**, with no build command and no output directory. Committed `workout-plan.html` is served at `/` through `vercel.json`; `index.html` is the fallback entry point. Pushes to the connected branch can trigger the existing Vercel integration.
+Vercel serves the generated `dist/` directory as a static site. `vercel.json` explicitly sets `npm run build` and `outputDirectory: "dist"`, overriding the default output directory. The build packages only the HTML, JavaScript, styles and local vendor assets into `dist/`. `workout-plan.html` is served at `/` through the rewrite; `index.html` is the fallback entry point. Pushes to the connected branch trigger the existing Vercel integration.
 
 ## Training rationale
 

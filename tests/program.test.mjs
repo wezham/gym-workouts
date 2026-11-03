@@ -38,3 +38,12 @@ test('generated HTML embeds the current source and local design assets',async()=
  assert.ok(!html.includes('Barbell Bench Press'));
  assert.ok(html.includes('app.js')&&html.includes('styles.css'));
 });
+test('Vercel output includes all browser assets and excludes repository source',async()=>{
+ const config=JSON.parse(await fs.readFile(new URL('../vercel.json',import.meta.url),'utf8'));
+ assert.equal(config.outputDirectory,'dist');
+ assert.equal(config.buildCommand,'npm run build');
+ assert.deepEqual((await fs.readdir(new URL('../dist/',import.meta.url))).sort(),['app.js','index.html','styles.css','vendor','workout-plan.html']);
+ for(const asset of ['workout-plan.html','app.js','styles.css','vendor/daisyui.css','vendor/daisyui.LICENSE']){
+  assert.equal(await fs.readFile(new URL('../dist/'+asset,import.meta.url),'utf8'),await fs.readFile(new URL('../'+asset,import.meta.url),'utf8'));
+ }
+});

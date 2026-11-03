@@ -3,10 +3,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/create-program.mjs && node generate-workout-html.mjs",
+    "build": "node scripts/create-program.mjs && node generate-workout-html.mjs && node scripts/package-site.mjs",
     "test": "node --test tests/program.test.mjs",
     "test:browser": "node tests/browser.mjs",
-    "serve": "python3 -m http.server 4173 --bind 127.0.0.1"
+    "serve": "python3 -m http.server 4173 --bind 127.0.0.1 --directory dist"
   },
   "devDependencies": {
     "playwright": "^1.58.0"
