@@ -17,6 +17,7 @@ try{
  await page.locator('.exercise details').first().locator('summary').click();
  await page.locator('#log-0').fill('22 kg · 10 / 9 / 8');
  await page.reload();
+ await page.locator('[data-week="1"]').click();
  assert.equal(await page.locator('#exercise-0').isChecked(),true);
  assert.equal(await page.locator('#log-0').inputValue(),'22 kg · 10 / 9 / 8');
  await page.locator('#day-2').click();
